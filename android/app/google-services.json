@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309103270713",
+    "firebase_url": "https://flyright-4be3b.firebaseio.com",
+    "project_id": "flyright-4be3b",
+    "storage_bucket": "flyright-4be3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309103270713:android:84f2fe5b6537a0b8a0e6e8",
+        "android_client_info": {
+          "package_name": "com.example.flyright"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309103270713-te5nicuedad6vam8fg4oc5l8u4133nuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLV59o6lg7cunyNwKxGzHmMby5GgCb60U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309103270713-te5nicuedad6vam8fg4oc5l8u4133nuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
