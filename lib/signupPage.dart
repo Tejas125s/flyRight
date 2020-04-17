@@ -152,8 +152,7 @@ class _signupPageState extends State<signupPage> {
       try {
         FirebaseUser user = (await FirebaseAuth.instance
                 .createUserWithEmailAndPassword(
-                    email: _email, password: _password))
-            .user;
+                    email: _email, password: _password));
         Loading();
         // here we create a document in the collection with UID of user created
         await DatabaseService(uid: user.uid).updateUserData(_name);
